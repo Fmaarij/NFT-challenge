@@ -1,0 +1,11 @@
+.footer{
+    padding : 1rem !important;
+    font-family: Outfit;
+    font-weight: lighter !important;
+}
+.footer p{
+    font-size: 14px !important;
+}
+.footer p span{
+    color : rgba(200, 202, 230, 0.548);
+}

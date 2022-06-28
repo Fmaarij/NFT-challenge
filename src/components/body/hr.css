@@ -1,0 +1,6 @@
+.hr div{
+    border-bottom: 1px rgba(0, 0, 0, 0.288) solid;
+    outline: none;
+    width: 90%;
+    margin: auto;
+}

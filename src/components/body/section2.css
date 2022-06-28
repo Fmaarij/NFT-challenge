@@ -1,0 +1,15 @@
+.section2 {
+   padding: 1rem;
+   color:#fff !important;
+   font-size: 14px;
+   text-align: center !important;
+   font-family: outfit;
+   
+}
+.section2 .row .txtDiam{
+    color:hsl(178, 100%, 50%);
+}
+
+.section2 .row .txtclock{
+    color:rgba(255, 255, 255, 0.705);
+}

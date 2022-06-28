@@ -1,0 +1,10 @@
+.imgheader {
+        padding: 1rem;
+}
+.imgheader img{
+        width: 100% !important;
+        /* margin: auto !important; */
+        border-radius: 5%;
+        /* filter: brightness(500%); */
+        
+}
